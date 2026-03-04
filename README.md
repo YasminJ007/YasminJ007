@@ -1,20 +1,4 @@
-## Hi there 👋
 
-<!--
-**YasminJ007/YasminJ007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<a name="top"></a>
-I challenge you to a game of Tic-Tac-Toe. 
-Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
-
-Xs go first, click one of the nine boxes to make your move.
-
-_If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all of the emojis._
-
-[Take me to the bottom](#bottom)
-
----
 <a name="root"></a><br/><br/><br/>
 [⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/>
 <a name="1"></a><br/><br/><br/>
